@@ -7,5 +7,13 @@ public class dugubin {
         System.out.println("报名费300大洋！");
         System.out.println("性格懦弱者大可不必来！");
         System.out.println("我用小号来参赛");
+hahahhahahhaaaaaaaaaaaaaaaaaaaaaaaaaahahhah
+    caiaiciaciaiciaiciaiciaiciaciiciaicaicicaiciacaicaic
+    zhencai
+    caendecai 
+    hahahha
+    doupi
+    666
+    dkjashdkl
     }
 }
